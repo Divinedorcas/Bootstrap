@@ -1,0 +1,214 @@
+body{
+    font-family: Arial,  sans-serif;
+}
+
+.first-section{
+    height: 400px;
+    background-color: #f3f;
+    margin-top: 25px;
+}
+.my-nav-bg{
+    background-color: #f3f;
+   
+}
+.container-fluid{
+    justify-content: right;
+    justify-items: right;
+}
+
+.text-all{
+    display: flex;
+   padding: 10px;
+   color: white;
+}
+.text-buttom{
+    margin-top: 25px;
+}
+.button-two{
+    background-color: black;
+    cursor: pointer;
+    border: none;
+  
+    
+}
+.button-one{
+    background-color: transparent;
+    cursor: pointer;
+    border: 1px solid white;
+    color: white;
+    margin-right: 15px;
+}
+.icons{
+    margin: 6px;
+    color: white;
+}
+
+.tindog{
+    margin-top:55px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+  
+}
+.meet-dog{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.image{
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+    left: 50%;
+}
+.second-section{
+    background-color: #ffff;
+    height: 200px;
+    z-index: -5;
+align-items: end;    
+}
+
+
+.col{
+    margin-top: 100px;
+
+}
+.col>h3{
+    font-weight: bolder;
+
+}
+.col .icons{
+    width: 60px;
+    height: 35px;
+}
+
+.third-section {
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.third-section p {
+    margin-top: 90px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.caro-img{
+    border-radius: 100%;
+    width: 10%;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.add{
+ width: 250px;
+ height: auto;
+ margin-right: 25px;
+}
+.fourth-section{
+     background-color: #ef8172;
+    height: 300px;
+    justify-content: center;
+    margin-top: 85px;
+    
+    
+}
+
+.fivth-section{
+    background-color: #ffff;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+
+}
+.grid-all{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    margin-top: 15px;
+ 
+    
+}
+.text{
+    justify-content: center;
+    
+}
+.text p{
+    text-align: center;
+}
+.text h2{
+    text-align: center;
+}
+
+.card-text{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    }
+
+.card-tt{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 32px;
+}
+
+.card-text button{
+    border: none;
+    width: 200px;
+    margin-bottom: 15px;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.card-card button{
+    border: none;
+    width: 200px;
+    margin-bottom: 15px;
+    padding: 8px;
+    background-color: black;
+    color: white;
+}
+
+
+.card-text button:hover{
+    background-color: black;
+color: white;
+}
+
+
+
+.sixth-section{
+    height: 350px;
+    background-color: #f3f;
+    margin-top: 25px;
+}
+.six-text-button button{
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    
+}
+.six-meet-dog{
+    text-align: center;
+    
+}
+.seventh-section{
+    background-color: #ffff;
+    height: 250px;
+}
+
+.brands{
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin: 35px;
+}
+.brand{
+    margin: 20px 10px;
+}
